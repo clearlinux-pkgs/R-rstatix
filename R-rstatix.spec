@@ -7,7 +7,7 @@
 #
 Name     : R-rstatix
 Version  : 0.7.2
-Release  : 2
+Release  : 3
 URL      : https://cran.r-project.org/src/contrib/rstatix_0.7.2.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/rstatix_0.7.2.tar.gz
 Summary  : Pipe-Friendly Framework for Basic Statistical Tests
